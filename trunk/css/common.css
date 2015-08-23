@@ -1,0 +1,146 @@
+body a:hover {
+  text-decoration: none;
+}
+body #header {
+  padding: 10px 10px;
+}
+body .navbar .glyphicon {
+  font-size: 1.7em;
+}
+body .wrapper {
+  min-height: 300px;
+  margin-top: 50px;
+}
+body .wrapper .group-footer {
+  margin-top: 10px;
+}
+body .wrapper .noMSG {
+  height: 500px;
+  line-height: 500px;
+  text-align: center;
+}
+body .wrapper .list-group-item-heading {
+  margin-bottom: 10px;
+  border-bottom: 1px solid #EEE;
+  padding-bottom: 5px;
+}
+body .wrapper .norowpadding .row [class^="col-"] {
+  padding: 0px 0px!important;
+}
+body .wrapper .hasrowpadding .row [class^="col-"] {
+  padding: 0px 15px!important;
+}
+body .wrapper .banner {
+  overflow-y: hidden;
+  height: 200px;
+  background-color: #333;
+}
+body .wrapper .container .selection .select-item dl dt {
+  word-break: keep-all;
+}
+body .wrapper .container .selection .select-item .items {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+body .wrapper .container .selection .select-item .items .item {
+  float: left;
+}
+body .wrapper .container .selection .select-item .items .title {
+  min-width: 60px;
+  width: 14.66666%;
+}
+body .wrapper .container .selection .select-item .items .desc {
+  max-width: 270px;
+  width: 82.33333%;
+}
+body .wrapper .colorpiece {
+  height: 100%;
+}
+body .wrapper .red {
+  background-color: red;
+}
+body .wrapper .newrelasesitem {
+  height: 120px;
+  overflow: hidden;
+  margin-bottom: 5px;
+  line-height: 120px;
+  text-align: center;
+}
+body .wrapper .productlist {
+  margin-bottom: 10px;
+}
+body .wrapper .productlist .list-item {
+  border: 1px solid #DDD;
+  margin: 0px 10px 10px 10px;
+}
+body #footer {
+  padding: 10px 30px;
+  border-top: 1px solid #EEE;
+  text-align: center;
+}
+body #footer a {
+  color: #666;
+}
+.text-while {
+  color: #FFFFFF;
+}
+.text-while a,
+.text-while span,
+.text-while i,
+.text-while label {
+  color: inherit;
+}
+.no-list-bor {
+  padding-left: 0px;
+  margin-left: 0px;
+  list-style: none;
+}
+.list-prop li {
+  float: left;
+  margin-bottom: 5px;
+  margin-right: 5px;
+}
+.list-prop li a,
+.list-prop li span {
+  padding: 6px 4px;
+  display: block;
+}
+.list-prop li a {
+  border: 1px solid #EEE;
+  color: #666;
+}
+.list-prop li span {
+  background-color: #DDD;
+  border: 1px solid #DDD;
+  color: #AAA;
+}
+.list-prop .active a {
+  background-color: #b94a48;
+  border-color: #b94a48;
+  color: #FFF;
+}
+.list-prop .disable span {
+  background-color: #DDD;
+  border-color: #DDD;
+  color: #AAA;
+}
+.fl {
+  float: left;
+}
+.fr {
+  float: right;
+}
+#count .btnCount {
+  padding: 8px 12px;
+  border: 1px solid #EEE;
+  display: inline-block;
+  color: #666;
+}
+#count input[type="number"] {
+  border: 1px solid #EEE;
+  padding: 8px;
+  width: 60px;
+}
+.p10 {
+  padding: 10px;
+}
